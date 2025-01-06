@@ -1,7 +1,10 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Yasmine, a Tunisien Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🌟 My Journey in Software Engineering 🌟<br>
+🚀 My journey into software engineering began with a passion for problem-solving and a deep curiosity about how technology can transform the world. <br>
+From writing my first line of code to building dynamic web applications 💻, I’ve consistently honed my skills through self-learning and hands-on projects.<br>
+🎓 I’m currently pursuing a degree in software engineering and working towards graduating in a professional and impactful way, ready to make a difference in the tech world! 🌍✨<br>
 
 
 # 💻 Tech Stack:
