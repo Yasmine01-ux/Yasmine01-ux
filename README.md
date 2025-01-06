@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-#  Wzlcome👋🏼:
+#  Welcome👋🏼:
 🌟 My Journey in Software Engineering 🌟<br>
 🚀 My journey into software engineering began with a passion for problem-solving and a deep curiosity about how technology can transform the world. <br>
 From writing my first line of code to building dynamic web applications 💻, I’ve consistently honed my skills through self-learning and hands-on projects.<br>
