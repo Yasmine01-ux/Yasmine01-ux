@@ -1,4 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 #  Welcome👋🏼:
 🌟 My Journey in Software Engineering 🌟<br>
