@@ -1,8 +1,8 @@
 
-#  Welcome👋🏼:
-🚀 My journey into software engineering began with a strong passion for problem-solving and a deep curiosity about how technology shapes our world.
-🎓 I graduated Septembre 2025 with a Bachelor’s degree (Licence) in Computer Science.
-💻 I am currently pursuing a Software Engineering degree, with the goal of earning my engineering diploma in 2028.
+#  Welcome👋🏼:<br>
+🚀 My journey into software engineering began with a strong passion for problem-solving and a deep curiosity about how technology shapes our world.<br>
+🎓 I graduated Septembre 2025 with a Bachelor’s degree (Licence) in Computer Science.<br>
+💻 I am currently pursuing a Software Engineering degree, with the goal of earning my engineering diploma in 2028.<br>
 📚 I am committed to continuous learning, strengthening my technical skills through academic studies and hands-on projects, and preparing to make a meaningful impact in the tech industry. 🌍✨
 
 # 💻 Tech Stack:
